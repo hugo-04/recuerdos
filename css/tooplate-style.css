@@ -215,6 +215,7 @@ button:focus {
 .tm-gallery-item {
     padding-left: 10px;
     padding-right: 10px;
+    object-fit: cover;
 }
 
 .tm-gallery-item img {
